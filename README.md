@@ -20,4 +20,4 @@ $ truffle deploy
 
 <h6> Transaction and Timeline Page </h6>
 
-![](screenshots/1.PNG)
+![](screenshots/1.png)
